@@ -6,4 +6,13 @@
  *
  * v0.1.0 designed by @fex-team.
  * =====================================================
- */fox-page-content{display:block;overflow:auto;background-color:#fff;-webkit-overflow-scrolling:touch;-webkit-box-flex:1;-webkit-flex:1}
+ */
+
+fox-page-content {
+  display: block;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  background-color: #fff;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+}
