@@ -8,9 +8,7 @@
 // Components
 
 fox-page-content{
-    display: block;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
+    @include scrollable(y);
     background-color: #fff;
     @include flex-column-item-fullfilled();
 }

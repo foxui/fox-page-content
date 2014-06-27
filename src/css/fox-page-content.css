@@ -10,8 +10,8 @@
 
 fox-page-content {
   display: block;
-  overflow: auto;
   -webkit-overflow-scrolling: touch;
+  overflow: auto;
   background-color: #fff;
   -webkit-box-flex: 1;
   -webkit-flex: 1;
