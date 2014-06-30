@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "css": [
+            "fox-page-content/dist/css/fox-page-content.css"
+        ],
+        "import": [
+            "fox-page-content/dist/fox-page-content.html"
+        ]
+    },
+    "name": "fox-page-content",
+    "type": "container",
+    "attributes":[],
+    "events":[]
+}
